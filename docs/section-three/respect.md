@@ -1,3 +1,9 @@
-# 3.20 Respect for On-Track Competition
+# 3.20 — Respect for On-Track Competition
 
-> **NOTE:** Content pending final rulebook review.
+Drivers are expected to compete in good faith.
+
+Aggressive racing is permitted.
+
+Deliberately dangerous, retaliatory or manipulative driving is not.
+
+The purpose of these Racing Standards is not to remove close racing, but to establish a consistent standard by which incidents can be reviewed.
