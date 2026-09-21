@@ -2,7 +2,7 @@
 
 When the Safety Car is deployed, competitors must comply with the game's Safety Car procedure and all applicable Penrose Cup regulations.
 
-Overtaking under Safety Car conditions is prohibited unless the game permits the position change as part of the normal Safety Car procedure.
+Overtaking under the safety car conditions is prohibited.
 
 ## Safety Car Restart
 
