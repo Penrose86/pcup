@@ -1,6 +1,14 @@
 # SECTION FIVE — TEAM & CUP REGULATIONS
 
-Team scoring, driver points, bonus points, classification and Main Stage progression.
+This section explains how Penrose Cup points are awarded, how individual driver scores contribute to a team total, and how teams progress through the Main Stage.
+
+In standard races, every classified finishing position from P1 to P20 scores points under the Penrose Cup 33-to-1 points system. Pole Position, Fastest Lap and Cleanest Driver can each add one bonus point, subject to the eligibility rules set out in this section.
+
+Classification is central to points eligibility. A driver must complete at least 90% of the scheduled race distance to be classified and receive finishing-position points. DNS and DSQ results receive no finishing-position points, and a disqualification also removes any race bonus points.
+
+Unless a competition stage states otherwise, a team’s race score is the combined eligible points of its participating drivers. The Main Stage uses a distinct team-placement system: normal driver points first establish the order of teams in each lobby, then each team is awarded 5-to-1 Main Stage points. Those team-placement points determine the overall Main Stage standings and progression to the Semi-Final.
+
+Use the regulations below for the complete points tables, eligibility requirements and Main Stage countback procedure.
 
 <div class="rule-cards">
 
