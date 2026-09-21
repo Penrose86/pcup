@@ -1,4 +1,4 @@
-# 1.5 — Wildcard Rounds
+# 1.6 — Wildcard Rounds
 
 Wildcard Rounds may be introduced from Week 3 onwards, including the Main Stage, Semi-Final and Grand Final.
 

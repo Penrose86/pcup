@@ -1,4 +1,4 @@
-# 1.3 — Road to the Final
+# 1.4 — Road to the Final
 
 The Penrose Cup is intended to run across a six-week competition, progressively reducing the number of teams until two remain for the Grand Final.
 

@@ -1,4 +1,4 @@
-# 1.4 — Teams & Driver Registration
+# 1.5 — Teams & Driver Registration
 
 Each team entering the Penrose Cup must register a minimum of four drivers.
 

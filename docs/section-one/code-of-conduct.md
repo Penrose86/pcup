@@ -1,4 +1,4 @@
-# 1.6 — Code of Conduct
+# 1.7 — Code of Conduct
 
 All drivers, team personnel and staff participating in the Penrose Cup are expected to conduct themselves in a respectful and sporting manner.
 
