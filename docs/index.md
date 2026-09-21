@@ -12,7 +12,7 @@ The official home for Penrose Cup competition regulations, event procedures, rac
 
 </div>
 
-<div class="rule-cards" markdown>
+<div class="rule-cards">
 
 <a class="rule-card" href="section-one/"><span>SECTION ONE</span><strong>THE PENROSE CUP</strong><span class="rule-card-copy">Competition format, registration and competition information.</span></a>
 <a class="rule-card" href="section-two/"><span>SECTION TWO</span><strong>SPORTING REGULATIONS</strong><span class="rule-card-copy">Official event and session procedures.</span></a>

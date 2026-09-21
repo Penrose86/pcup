@@ -2,7 +2,7 @@
 
 The procedures, evidence requirements and sanctions used to consider Penrose Cup incidents.
 
-<div class="rule-cards" markdown>
+<div class="rule-cards">
 
 <a class="rule-card" href="incident-reports/"><span>4.2</span><strong>Incident Reports</strong></a>
 <a class="rule-card" href="video-evidence/"><span>4.3</span><strong>Video Evidence</strong></a>

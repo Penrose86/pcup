@@ -4,7 +4,7 @@ These Sporting Regulations govern the organisation and operation of all official
 
 Unless otherwise stated, they apply to every qualifying session, Sprint and race conducted as part of the Penrose Cup.
 
-<div class="rule-cards" markdown>
+<div class="rule-cards">
 
 <a class="rule-card" href="event-lobby-procedures/"><span>2.1</span><strong>Event & Lobby Procedures</strong></a>
 <a class="rule-card" href="qualifying-procedure/"><span>2.5</span><strong>Qualifying Procedure</strong></a>

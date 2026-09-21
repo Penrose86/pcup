@@ -6,7 +6,7 @@ Drivers are expected to race competitively while maintaining reasonable control 
 
 Incidents will be judged on their individual circumstances and consequences.
 
-<div class="rule-cards" markdown>
+<div class="rule-cards">
 
 <a class="rule-card" href="general-driving-standard/"><span>3.1</span><strong>General Driving Standard</strong></a>
 <a class="rule-card" href="overtaking-divebombs/"><span>3.3</span><strong>Overtaking & Divebombs</strong></a>

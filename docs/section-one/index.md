@@ -2,7 +2,7 @@
 
 The foundation of the competition: its format, route to the Final, team eligibility, Wildcards and expected conduct.
 
-<div class="rule-cards" markdown>
+<div class="rule-cards">
 
 <a class="rule-card" href="welcome/"><span>1.1</span><strong>Welcome</strong></a>
 <a class="rule-card" href="competition-format/"><span>1.2</span><strong>Competition Format</strong></a>
