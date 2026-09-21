@@ -16,7 +16,7 @@ The remaining 15 teams will compete across three separate five-team lobbies each
 
 Race allocations will be structured to provide balanced grids and maximise the number of different opponents each team faces, with repeat matchups kept to the minimum reasonably possible.
 
-Teams receive Main Stage points based on their team finishing position within their lobby; see [5.12 — Main Stage Scoring](../section-five/main-stage-scoring.md) for the detailed rule.
+Teams receive Main Stage points based on their team finishing position within their lobby:
 
 | Team Position | Main Stage Points |
 |---|---:|

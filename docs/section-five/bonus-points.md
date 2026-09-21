@@ -1,40 +1,21 @@
-# 5.9 — Bonus Points
+# 5.5 Bonus Points
 
-In addition to finishing-position points, the following bonus points are available during a standard Penrose Cup race:
+Three additional bonus points are available during a standard Penrose Cup race:
 
-| Achievement | Bonus |
-|---|---:|
-| Pole Position | +1 |
-| Fastest Lap | +1 |
-| Cleanest Driver | +1 |
+- **Pole Position — +1 point**
+- **Fastest Lap — +1 point**
+- **Cleanest Driver — +1 point**
 
-## Pole Position
+The Fastest Lap bonus is awarded regardless of the driver's finishing position, provided the result remains valid under the regulations.
 
-The driver who officially secures Pole Position receives one additional point.
+The **Cleanest Driver** bonus is determined solely by the **EA SPORTS F1 26 post-race awards screen**.
 
-## Fastest Lap
+Penrose Cup Staff will not independently calculate or select the Cleanest Driver.
 
-The driver who records the official Fastest Lap receives one additional point.
+There is **no Driver of the Day bonus** and **no Most Overtakes bonus**.
 
-There is no finishing-position requirement attached to the Fastest Lap bonus.
+A race winner who also takes Pole Position, Fastest Lap and Cleanest Driver can therefore score a maximum of:
 
-## Cleanest Driver
+**33 + 1 + 1 + 1 = 36 points.**
 
-The Cleanest Driver receives one additional point.
-
-The Cleanest Driver bonus is determined solely by the official EA SPORTS F1 26 post-race awards screen.
-
-The Penrose Cup stewarding team does not independently select the Cleanest Driver.
-
-## No Other Driver Bonuses
-
-There is no:
-
-- Driver of the Day bonus.
-- Most Overtakes bonus.
-
-Unless specifically stated elsewhere in the regulations, no other individual race bonus points are awarded.
-
-## Maximum Standard Race Score
-
-> **IMPORTANT:** **33 WIN** + **1 POLE** + **1 FASTEST LAP** + **1 CLEANEST DRIVER** = **36 MAXIMUM**
+---

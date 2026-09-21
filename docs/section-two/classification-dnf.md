@@ -8,4 +8,4 @@ A driver who fails to meet the required classification threshold will be recorde
 
 A disqualified driver is not treated as a classified DNF.
 
-The application of bonus points and team scoring is governed by the [Team & Cup Regulations](../section-five/classification-points.md).
+The application of bonus points and team scoring is governed by the [Team & Cup Regulations](../section-five/classification-dnf.md).
