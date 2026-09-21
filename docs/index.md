@@ -14,10 +14,10 @@ The official home for Penrose Cup competition regulations, event procedures, rac
 
 <div class="rule-cards" markdown>
 
-<a class="rule-card" href="section-one/"><span>SECTION ONE</span><strong>THE PENROSE CUP</strong><p>Competition format, registration and competition information.</p></a>
-<a class="rule-card" href="section-two/"><span>SECTION TWO</span><strong>SPORTING REGULATIONS</strong><p>Official event and session procedures.</p></a>
-<a class="rule-card" href="section-three/"><span>SECTION THREE</span><strong>RACING STANDARDS</strong><p>Rules governing on-track competition.</p></a>
-<a class="rule-card" href="section-four/"><span>SECTION FOUR</span><strong>STEWARDING REGULATIONS</strong><p>Incident reporting, penalties and appeals.</p></a>
-<a class="rule-card" href="section-five/"><span>SECTION FIVE</span><strong>TEAM & CUP REGULATIONS</strong><p>Team scoring, competition stages and championship rules.</p></a>
+<a class="rule-card" href="section-one/"><span>SECTION ONE</span><strong>THE PENROSE CUP</strong><span class="rule-card-copy">Competition format, registration and competition information.</span></a>
+<a class="rule-card" href="section-two/"><span>SECTION TWO</span><strong>SPORTING REGULATIONS</strong><span class="rule-card-copy">Official event and session procedures.</span></a>
+<a class="rule-card" href="section-three/"><span>SECTION THREE</span><strong>RACING STANDARDS</strong><span class="rule-card-copy">Rules governing on-track competition.</span></a>
+<a class="rule-card" href="section-four/"><span>SECTION FOUR</span><strong>STEWARDING REGULATIONS</strong><span class="rule-card-copy">Incident reporting, penalties and appeals.</span></a>
+<a class="rule-card" href="section-five/"><span>SECTION FIVE</span><strong>TEAM & CUP REGULATIONS</strong><span class="rule-card-copy">Team scoring, competition stages and championship rules.</span></a>
 
 </div>
