@@ -1,23 +1,17 @@
-<div class="penrose-hero" markdown>
+<section class="pc-home-hero"><img src="assets/penrose-cup.png" alt="Penrose Cup logo"><div><p class="pc-kicker">PENROSE CUP</p><h1>Official Competition Rulebook</h1><p class="pc-season">EA SPORTS F1 26</p><p>Fair Racing <span>•</span> Respect <span>•</span> Competition <span>•</span> Community</p></div></section>
 
-![Penrose Cup](assets/penrose-cup.png){ .hero-art }
+## EXPLORE THE RULEBOOK
 
-# PENROSE CUP
-
-## Official Competition Rulebook
-
-**EA SPORTS F1 26**
-
-The official home for Penrose Cup competition regulations, event procedures, racing standards, and stewarding guidance.
-
+<div class="pc-home-cards">
+<a href="section-one/"><b>01</b><i>◆</i><strong>THE PENROSE CUP</strong><span>Competition format, registration and Cup information.</span><em>Explore →</em></a>
+<a href="section-two/"><b>02</b><i>◈</i><strong>SPORTING REGULATIONS</strong><span>Event, lobby and session procedures.</span><em>Explore →</em></a>
+<a href="section-three/"><b>03</b><i>◉</i><strong>RACING STANDARDS</strong><span>Rules governing on-track competition.</span><em>Explore →</em></a>
+<a href="section-four/"><b>04</b><i>⚑</i><strong>STEWARDING</strong><span>Reports, evidence, penalties and appeals.</span><em>Explore →</em></a>
+<a href="section-five/"><b>05</b><i>✦</i><strong>TEAM &amp; CUP REGULATIONS</strong><span>Scoring, standings and progression.</span><em>Explore →</em></a>
 </div>
 
-<div class="rule-cards">
+## QUICK LINKS
 
-<a class="rule-card" href="section-one/"><span>SECTION ONE</span><strong>THE PENROSE CUP</strong><span class="rule-card-copy">Competition format, registration and competition information.</span></a>
-<a class="rule-card" href="section-two/"><span>SECTION TWO</span><strong>SPORTING REGULATIONS</strong><span class="rule-card-copy">Official event and session procedures.</span></a>
-<a class="rule-card" href="section-three/"><span>SECTION THREE</span><strong>RACING STANDARDS</strong><span class="rule-card-copy">Rules governing on-track competition.</span></a>
-<a class="rule-card" href="section-four/"><span>SECTION FOUR</span><strong>STEWARDING REGULATIONS</strong><span class="rule-card-copy">Incident reporting, penalties and appeals.</span></a>
-<a class="rule-card" href="section-five/"><span>SECTION FIVE</span><strong>TEAM & CUP REGULATIONS</strong><span class="rule-card-copy">Team scoring, competition stages and championship rules.</span></a>
+<div class="pc-quick"><a href="section-one/competition-format/">◈<span>Competition Format</span></a><a href="section-two/lobby-settings/">⚙<span>Race Settings</span></a><a href="section-four/penalty-scale/">⚖<span>Penalty Scale</span></a><a href="section-five/standard-race-points/">◆<span>Points System</span></a><a href="section-four/incident-reports/">!<span>Report an Incident</span></a><a href="section-four/appeals/">↗<span>Appeals Process</span></a></div>
 
-</div>
+<div class="pc-home-info"><section><p class="pc-kicker">ABOUT THE PENROSE CUP</p><p>The official home for Penrose Cup competition regulations, event procedures, racing standards and stewarding guidance.</p><a href="section-one/welcome/">Read the Introduction →</a></section><aside><p class="pc-kicker">IMPORTANT</p><p>All drivers are expected to read and understand these rules. Ignorance of the rules is not an acceptable defence.</p></aside></div>

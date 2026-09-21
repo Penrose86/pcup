@@ -32,6 +32,7 @@ markdown_extensions:
       alternate_style: true
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/home.css
 nav:
   - Home: index.md
   - SECTION ONE — THE PENROSE CUP:
