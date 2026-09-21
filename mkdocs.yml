@@ -1,0 +1,108 @@
+site_name: Penrose Cup
+site_description: Official Competition Rulebook for EA SPORTS F1 26
+site_url: https://penrose86.github.io/pcup/
+repo_url: https://github.com/Penrose86/pcup
+repo_name: Penrose86/pcup
+theme:
+  name: material
+  language: en
+  logo: assets/penrose-cup.png
+  favicon: assets/penrose-cup.png
+  palette:
+    scheme: penrose
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - SECTION ONE — THE PENROSE CUP:
+      - Overview: section-one/index.md
+      - 1.1 Welcome: section-one/welcome.md
+      - 1.2 Competition Format: section-one/competition-format.md
+      - 1.3 Road to the Final: section-one/road-to-final.md
+      - 1.4 Teams & Driver Registration: section-one/teams-driver-registration.md
+      - 1.5 Wildcard Rounds: section-one/wildcard-rounds.md
+      - 1.6 Code of Conduct: section-one/code-of-conduct.md
+  - SECTION TWO — SPORTING REGULATIONS:
+      - Overview: section-two/index.md
+      - 2.1 Event & Lobby Procedures: section-two/event-lobby-procedures.md
+      - 2.2 Lobby Settings: section-two/lobby-settings.md
+      - 2.3 Late Drivers: section-two/late-drivers.md
+      - 2.4 Lobby Restarts: section-two/lobby-restarts.md
+      - 2.5 Qualifying Procedure: section-two/qualifying-procedure.md
+      - 2.6 Race Start & Race Procedure: section-two/race-start-procedure.md
+      - 2.7 Safety Car Procedure: section-two/safety-car.md
+      - 2.8 Virtual Safety Car Procedure: section-two/virtual-safety-car.md
+      - 2.9 Blue Flags & Lapped Cars: section-two/blue-flags.md
+      - 2.10 Track Limits & Corner Cutting: section-two/track-limits.md
+      - 2.11 Pit Lane Regulations: section-two/pit-lane.md
+      - 2.12 Reset to Track: section-two/reset-to-track.md
+      - 2.13 Retiring From a Session: section-two/retiring.md
+      - 2.14 Disconnects & AI-Controlled Cars: section-two/disconnects.md
+      - 2.15 Classification & DNF: section-two/classification-dnf.md
+      - 2.16 Game Exploits: section-two/game-exploits.md
+      - 2.17 Competition Manipulation: section-two/competition-manipulation.md
+      - 2.18 Wildcard Sporting Regulations: section-two/wildcard-sporting-regulations.md
+      - 2.19 Authority During an Event: section-two/authority-during-event.md
+  - SECTION THREE — RACING STANDARDS:
+      - Overview: section-three/index.md
+      - 3.1 General Driving Standard: section-three/general-driving-standard.md
+      - 3.2 Racing Room & Cars Alongside: section-three/racing-room.md
+      - 3.3 Overtaking & Divebombs: section-three/overtaking-divebombs.md
+      - 3.4 Defending: section-three/defending.md
+      - 3.5 Moving Under Braking: section-three/moving-under-braking.md
+      - 3.6 Contact & Collisions: section-three/contact-collisions.md
+      - 3.7 Returning a Position: section-three/returning-a-position.md
+      - 3.8 Forcing Another Driver Off Circuit: section-three/forcing-off-circuit.md
+      - 3.9 Leaving Circuit & Gaining Advantage: section-three/leaving-circuit-advantage.md
+      - 3.10 Unsafe Rejoins: section-three/unsafe-rejoins.md
+      - 3.11 Spins & Recovering a Car: section-three/spins-recovering.md
+      - 3.12 Blue Flags: section-three/blue-flags.md
+      - 3.13 Qualifying Conduct: section-three/qualifying-conduct.md
+      - 3.14 Safety Car Driving Standards: section-three/safety-car-driving.md
+      - 3.15 VSC Driving Standards: section-three/vsc-driving.md
+      - 3.16 Pit Entry & Exit Conduct: section-three/pit-entry-exit.md
+      - 3.17 Damaged Cars: section-three/damaged-cars.md
+      - 3.18 Deliberate Contact & Retaliation: section-three/deliberate-contact.md
+      - 3.19 Race Manipulation: section-three/race-manipulation.md
+      - 3.20 Respect for On-Track Competition: section-three/respect.md
+  - SECTION FOUR — STEWARDING REGULATIONS:
+      - Overview: section-four/index.md
+      - 4.1 Stewarding Principles: section-four/stewarding-principles.md
+      - 4.2 Incident Reports: section-four/incident-reports.md
+      - 4.3 Video Evidence: section-four/video-evidence.md
+      - 4.4 Race Director Evidence: section-four/race-director-evidence.md
+      - 4.5 Steward Decisions: section-four/steward-decisions.md
+      - 4.6 Penalty Scale: section-four/penalty-scale.md
+      - 4.7 Incident Severity: section-four/incident-severity.md
+      - 4.8 Qualifying Impeding Penalties: section-four/qualifying-impeding.md
+      - 4.9 Returning Positions & Mitigation: section-four/mitigation.md
+      - 4.10 Appeals: section-four/appeals.md
+      - 4.11 Steward Conflicts of Interest: section-four/conflicts-of-interest.md
+      - 4.12 Head Steward & Management Oversight: section-four/oversight.md
+      - 4.13 Discussion of Active Tickets: section-four/active-tickets.md
+      - 4.14 Deliberate & Serious Offences: section-four/serious-offences.md
+  - SECTION FIVE — TEAM & CUP REGULATIONS:
+      - Overview: section-five/index.md
+extra:
+  generator: false
+copyright: Penrose Cup · Official Competition Rulebook
