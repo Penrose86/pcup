@@ -6,7 +6,7 @@ Once the official competition draw has been completed, **Penrose Cup Management 
 
 If a team withdraws during a competition stage, the remaining teams will continue.
 
-For example, if Round Two begins with 15 teams and one team withdraws, the remaining 14 teams will continue competing for the five Semi-Final positions.
+For example, if Group Race 2 begins with 15 teams in a group and one team withdraws, the remaining 14 teams will continue competing for the five Semi-Final positions, subject to that group's published progression structure.
 
 A further withdrawal would result in the remaining 13 teams continuing.
 

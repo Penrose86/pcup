@@ -1,6 +1,6 @@
 # 1.6 — Wildcard Rounds
 
-Wildcard Rounds may be introduced from Week 3 onwards, including the Main Stage, Semi-Final and Grand Final.
+Wildcard Rounds may be introduced from Week 3 onwards, including Group Race 2, the Knockout, Semi-Final and Group Finals.
 
 The decision to activate a Wildcard Round will be made by Penrose Cup Management and Staff.
 

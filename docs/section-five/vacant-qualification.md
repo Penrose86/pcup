@@ -2,7 +2,7 @@
 
 Where a team qualifies for the next stage but withdraws **before that next stage begins**, the vacant qualification position may be offered to the next highest eligible team already participating in the competition.
 
-For example, if one of the two Grand Final qualifiers withdraws before the Grand Final, the team finishing **third in the Semi-Final** may be offered the vacant position.
+For example, if a team qualifying for a Group Final withdraws before that Final, the next highest eligible team from that group's Semi-Final may be offered the vacant position.
 
 If that team is unable to participate, the opportunity may pass to fourth place and subsequently fifth place where necessary.
 

@@ -6,6 +6,24 @@ There is no maximum number of drivers that a team may register for the competiti
 
 For standard Penrose Cup events, each team may select any four eligible drivers from its registered roster.
 
+## Original Placement Drivers
+
+The four drivers who represent a team during the Week 1 Placement Round become that team's **Original Placement Drivers** for the remainder of the Penrose Cup. Their identities are fixed after the Placement Round. Any exceptional request to change that designation must be approved by Penrose Cup Management.
+
+From Week 2 onwards, teams are expected to field at least two Original Placement Drivers in each event. This protects the integrity of the Group A and Group B placement system. Teams may use other eligible registered drivers when required, but a points reduction applies when fewer than two Original Placement Drivers participate:
+
+| Team line-up | Points treatment |
+|---|---|
+| 4 originals | All drivers score 100% |
+| 3 originals + 1 replacement | All drivers score 100% |
+| 2 originals + 2 replacements | All drivers score 100% |
+| 1 original + 3 replacements | The highest-scoring replacement contributes 50% of their points |
+| 0 originals + 4 replacements | The two highest-scoring replacements each contribute 50% of their points |
+
+The team cannot nominate which replacement driver receives a reduction. It is applied automatically to the highest-scoring applicable replacement driver or drivers. The reduction affects only the driver's points contribution; it does not change their official race finishing position or classification.
+
+The 50% reduction is calculated after race and bonus points have been determined. Fractions are rounded down to the nearest whole point. For example, if a team fields one Original Placement Driver and replacements scoring 32, 25 and 14 points, the highest-scoring replacement's contribution is reduced from 32 to 16 points; the other replacements retain their 25 and 14 points.
+
 Drivers are not required to be designated as reserves or substitutes. Any properly registered team driver may be selected for an event.
 
 ## Driver Eligibility

@@ -9,8 +9,6 @@ Countback is decided by:
 3. If still tied, most third-place finishes.
 4. Then fourth-place finishes, fifth-place finishes and so on until the teams are separated.
 
-The standard countback procedure applies to the **Semi-Final and Grand Final** where required.
-
-Round Two uses its own specific tie-break procedure defined within the competition-format regulations.
+The standard countback procedure applies where required in Group A and Group B stages, including the Semi-Final and Final, unless a separate stage-specific tie-break procedure has been published.
 
 ---
