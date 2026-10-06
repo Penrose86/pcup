@@ -13,7 +13,6 @@ A driver disqualified from an event receives:
 - **Zero finishing-position points**
 - **No Pole Position bonus**
 - **No Fastest Lap bonus**
-- **No Cleanest Driver bonus**
 
 Any additional stewarding or competition sanction remains separate from the loss of points.
 
