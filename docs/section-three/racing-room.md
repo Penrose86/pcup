@@ -6,6 +6,8 @@ Sufficient overlap exists when a car’s front wheels are at least alongside the
 
 Once sufficient overlap is established, both drivers must leave at least one car’s width of space, whether on the inside or outside of the corner. Neither driver has automatic priority.
 
+![Example of sufficient overlap: the cars’ front and rear wheels are alongside.](../assets/cars_same_size_tyres_aligned.png)
+
 Drivers must leave appropriate racing room when another car has established a legitimate position alongside.
 
 Neither attacking nor defending drivers may deliberately force an entitled competitor beyond the edge of the circuit.
