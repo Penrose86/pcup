@@ -1,7 +1,7 @@
 # 4.8 — Qualifying Impeding Penalties
 
-Confirmed qualifying impeding may result in a 5–15 second race-time penalty.
+The standard penalty for confirmed qualifying impeding is a 5-second time penalty added to the driver's race time.
 
-The precise penalty will depend on the severity of the obstruction and its effect on the affected driver's lap.
+The penalty may be increased up to 15 seconds depending on the severity of the obstruction and its effect on the affected driver's lap.
 
 Serious or repeated qualifying offences may result in a qualifying ban for a future event.
