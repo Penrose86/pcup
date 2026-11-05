@@ -11,6 +11,6 @@ This applies to drivers on:
 
 Movement to allow a faster driver through must be safe and predictable.
 
-A confirmed qualifying impeding offence carries a standard [5-second race-time penalty](../section-four/qualifying-impeding.md), which may be increased up to 15 seconds depending on severity and impact.
+A confirmed qualifying impeding offence carries a standard [5-second race-time penalty](../section-four/qualifying-impeding.md).
 
 More serious or repeated offences may result in a qualifying ban at the driver's next applicable event.
